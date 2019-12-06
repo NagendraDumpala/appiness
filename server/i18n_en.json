@@ -1,0 +1,11 @@
+{
+  "en": {
+    "pleaseTryAgai": "please TryAgain",
+    "emailExists": "Email already exists",
+    "userCreate": "User registered successfully",
+    "userUpdate": "User updated successfully",
+    "userDelete": "User deleted successfully",
+    "emailOrPasswordError": "Email or password is wrong",
+    "loginSuccess": "Login successfully"
+  }
+}
