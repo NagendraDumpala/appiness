@@ -207,7 +207,7 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-webpack": "^2.0.13",
     "latest": "^0.2.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "mocha": "^5.1.1",
     "moment": "^2.21.0",
     "moment-timezone": "^0.5.16",
